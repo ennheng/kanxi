@@ -97,6 +97,10 @@ Compose 仪器测试可在已连接设备或模拟器上运行：
 
 所有片单、收藏、历史和封面只保存在本机应用私有目录；按产品约定不提供备份，卸载会清空。家人主动验证完整链接时，应用只读取该公开视频页面内嵌的 BVID、分 P 编号和分 P 标题用于选择，不读取封面或媒体地址，不调用搜索、播放或下载接口。只应收录无需登录或会员的公开视频，并优先使用院团、电视台或明确授权账号的内容。应用不使用 B 站 Logo，也不代表与哔哩哔哩存在官方合作。
 
+## 免责声明
+
+《看戏》为在线播放应用，所有视频均通过 B 站官方外链播放器实时加载播放，播放时会消耗移动数据或 Wi-Fi 流量。首次使用移动网络播放时应用会弹出提醒，后续不再重复提示。请在使用前确认网络环境与流量套餐，避免产生额外费用。应用仅提供视频索引与播放入口，不存储、缓存或下载视频内容，视频版权归原 UP 主及哔哩哔哩所有。
+
 实现依据：[B 站官方外链播放器](https://player.bilibili.com/)、[Android WebView 安全建议](https://developer.android.com/privacy-and-security/risks/unsafe-uri-loading)和[Jetpack Compose 官方设置](https://developer.android.com/develop/ui/compose/setup)。
 
 Debug APK 使用 Android 调试签名，仅适合家庭测试。长期分发前应创建由项目所有者保存、且绝不提交 Git 的 Release 签名密钥。
