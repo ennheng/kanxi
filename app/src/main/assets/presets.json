@@ -1,65 +1,2746 @@
 {
+  "jingju": {
+    "name": "京剧精选",
+    "categoryName": "京剧",
+    "items": [
+      {
+        "bvid": "BV1EW411M7A6",
+        "part": 1,
+        "title": "金殿告急·教子惊变·杨府议事"
+      },
+      {
+        "bvid": "BV1EW411M7A6",
+        "part": 2,
+        "title": "姐弟进京·校场比武"
+      },
+      {
+        "bvid": "BV1EW411M7A6",
+        "part": 3,
+        "title": "捧印挂帅"
+      },
+      {
+        "bvid": "BV1EW411M7A6",
+        "part": 4,
+        "title": "整装待发·发兵出征"
+      }
+    ]
+  },
+  "chaoju": {
+    "name": "潮剧精选",
+    "categoryName": "潮剧",
+    "items": [
+      {
+        "bvid": "BV1ub411273b",
+        "part": 1,
+        "title": "十仙庆寿 - 五福连版"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 2,
+        "title": "苏六娘"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 3,
+        "title": "刘明珠"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 4,
+        "title": "包公会李后"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 5,
+        "title": "白蛇传"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 6,
+        "title": "任是无情也动人"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 7,
+        "title": "春草闯堂"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 8,
+        "title": "屠夫状元"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 9,
+        "title": "梁山佰祝英台"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 10,
+        "title": "救风尘"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 11,
+        "title": "瑞雲"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 12,
+        "title": "双青天"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 13,
+        "title": "四郎探母"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 14,
+        "title": "天子奇缘"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 15,
+        "title": "彩楼记"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 16,
+        "title": "龙井渡头"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 17,
+        "title": "败家仔丘孝"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 18,
+        "title": "打金枝"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 19,
+        "title": "德政碑"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 20,
+        "title": "玉堂春"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 21,
+        "title": "白兔记"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 22,
+        "title": "白免记2"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 23,
+        "title": "刀落头断如长睡"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 24,
+        "title": "潇湘秋雨"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 25,
+        "title": "薛仁贵回窑"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 26,
+        "title": "东吴郡主"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 27,
+        "title": "凤舞凰鸣上"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 28,
+        "title": "凤舞凰鸣下"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 29,
+        "title": "杨令婆辩本"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 30,
+        "title": "柴房会"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 31,
+        "title": "春香传"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 32,
+        "title": "春香传"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 33,
+        "title": "姐妹易嫁"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 34,
+        "title": "秋胡戏妻"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 35,
+        "title": "三鸾配"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 36,
+        "title": "双联玉锁"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 37,
+        "title": "孝妇杀家姑"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 38,
+        "title": "新版苏六娘"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 39,
+        "title": "烟花女与状元郎"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 40,
+        "title": "斩韩信"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 41,
+        "title": "张古董借妻"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 42,
+        "title": "张春郎"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 43,
+        "title": "魏宫大面"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 44,
+        "title": "赵氏孤儿 · 祭碑"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 45,
+        "title": "双玉蝉"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 46,
+        "title": "珍珠塔"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 47,
+        "title": "柴房缘"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 48,
+        "title": "晋宫恩仇"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 49,
+        "title": "告亲夫"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 50,
+        "title": "闹开封"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 51,
+        "title": "巧姻缘"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 52,
+        "title": "五女图"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 53,
+        "title": "辞郎洲"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 54,
+        "title": "飞龙女"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 55,
+        "title": "益春藏书"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 56,
+        "title": "二八娇妻二岁夫"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 57,
+        "title": "荔镜记"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 58,
+        "title": "大劈棺"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 59,
+        "title": "韩江花似锦"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 60,
+        "title": "绛玉掼粿"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 61,
+        "title": "芦林会"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 62,
+        "title": "画龙点睛"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 63,
+        "title": "收浪子尸"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 64,
+        "title": "执法如山不回头"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 65,
+        "title": "香罗帕"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 66,
+        "title": "奉养慈帷慰娘怀"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 67,
+        "title": "无意神医"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 68,
+        "title": "袁崇焕"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 69,
+        "title": "火烧听月楼"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 70,
+        "title": "花好月圆"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 71,
+        "title": "恩仇记"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 72,
+        "title": "张春郎削发"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 73,
+        "title": "赵少卿（上）"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 74,
+        "title": "赵少卿（下）"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 75,
+        "title": "金花女（上）"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 76,
+        "title": "金花女（下）"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 77,
+        "title": "扫窗会"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 78,
+        "title": "四郎探母"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 79,
+        "title": "秦香莲"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 80,
+        "title": "闹釵"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 81,
+        "title": "十五贯"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 82,
+        "title": "杨令婆辨本"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 83,
+        "title": "宝莲灯"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 84,
+        "title": "陈太爷选婿"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 85,
+        "title": "飞龙女"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 86,
+        "title": "汉文皇后"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 87,
+        "title": "金花女"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 88,
+        "title": "篮继子"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 89,
+        "title": "梁宫平乱"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 90,
+        "title": "莫愁女"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 91,
+        "title": "穆桂英大破天门阵"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 92,
+        "title": "一门三进士"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 93,
+        "title": "飞龙刺狄青 (上集)"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 94,
+        "title": "飞龙刺狄青 (下集)"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 95,
+        "title": "掷娇媚"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 96,
+        "title": "黄飞虎反朝歌"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 97,
+        "title": "谢玉辉进宫"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 98,
+        "title": "红鬃烈烈马(上集)"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 99,
+        "title": "红鬃烈烈马 (下集)"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 100,
+        "title": "狸猫换太子"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 101,
+        "title": "孙悟空三调芭蕉扇"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 102,
+        "title": "陈三五娘"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 103,
+        "title": "楚宫风云"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 104,
+        "title": "杜王斩子"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 105,
+        "title": "梅英表花"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 106,
+        "title": "宋江杀惜"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 107,
+        "title": "陈三两"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 108,
+        "title": "断桥会"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 109,
+        "title": "皇亲国戚"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 110,
+        "title": "金玉奇缘 上"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 111,
+        "title": "金玉奇缘 下"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 112,
+        "title": "京娘送兄"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 113,
+        "title": "蓝太爷断案"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 114,
+        "title": "乱世奇缘"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 115,
+        "title": "雷震天波府 上"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 116,
+        "title": "雷震天波府 下"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 117,
+        "title": "刘骏登基 上"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 118,
+        "title": "刘骏登基 下"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 119,
+        "title": "洛水仙姬"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 120,
+        "title": "钱妃乱国"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 121,
+        "title": "乔老爷救主"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 122,
+        "title": "秦凤兰 上"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 123,
+        "title": "秦凤兰 下"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 124,
+        "title": "三闯宫"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 125,
+        "title": "三凤求凰"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 126,
+        "title": "曹营恋歌"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 127,
+        "title": "荔镜记续集"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 128,
+        "title": "连升三级"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 129,
+        "title": "刘明珠三闹金銮 上"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 130,
+        "title": "刘明珠三闹金銮 下"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 131,
+        "title": "罗衫奇案"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 132,
+        "title": "神龙彩凤 上"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 133,
+        "title": "神龙彩凤 下"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 134,
+        "title": "唐宫惊涛"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 135,
+        "title": "唐宫女皇梦 上"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 136,
+        "title": "唐宫女皇梦 下"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 137,
+        "title": "王妃告夫"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 138,
+        "title": "武则天与上官婉儿 上"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 139,
+        "title": "武则天与上官婉儿 下"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 140,
+        "title": "西施归越"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 141,
+        "title": "洗马桥"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 142,
+        "title": "下山"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 143,
+        "title": "徐策跑城"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 144,
+        "title": "一门三状元"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 145,
+        "title": "延春救主"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 146,
+        "title": "御园辨亲"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 147,
+        "title": "月容传奇"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 148,
+        "title": "岳云"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 149,
+        "title": "赵匡胤斩郑恩"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 150,
+        "title": "状元审母"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 151,
+        "title": "碧血双飞燕"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 152,
+        "title": "成康登基 上"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 153,
+        "title": "成康登基 下"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 154,
+        "title": "地藏菩萨本愿经"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 155,
+        "title": "蒋兴哥休妻"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 156,
+        "title": "李三娘前传"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 157,
+        "title": "乱世奇緣"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 158,
+        "title": "七子救驾"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 159,
+        "title": "三赐状元袍"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 160,
+        "title": "三家福"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 161,
+        "title": "三喜缘"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 162,
+        "title": "双宝燕"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 163,
+        "title": "水鬼升城隍"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 164,
+        "title": "四子五状元"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 165,
+        "title": "太后改嫁"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 166,
+        "title": "桃花公主"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 167,
+        "title": "天鹅宴"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 168,
+        "title": "王金龙"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 169,
+        "title": "威武帝遊江南"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 170,
+        "title": "孝子辩亲"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 171,
+        "title": "姚濟民救太子 凤阁飞龙"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 172,
+        "title": "玉蝴蝶"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 173,
+        "title": "月容传"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 174,
+        "title": "红头船"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 175,
+        "title": "潮剧片段：白高梁 往事历历如潮涌"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 176,
+        "title": "潮剧片段：陈太爷选婿 明镜一面诉衷情"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 177,
+        "title": "潮剧片段：成康登基 爱郎助郎理当然"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 178,
+        "title": "潮剧片段：成康登基 谁人解我难上难"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 179,
+        "title": "潮剧片段：成康登基 誓与翠儿长厮守"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 180,
+        "title": "潮剧片段：成康登基 欲吊英灵竟无从"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 181,
+        "title": "潮剧片段：凤箫情选段"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 182,
+        "title": "潮剧片段：桂枝告状—后堂相认泪汪汪"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 183,
+        "title": "潮剧片段：黄晓佳"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 184,
+        "title": "潮剧片段：精选黄玲玲"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 185,
+        "title": "潮剧片段：精选邢佩洁"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 186,
+        "title": "潮剧片段：梁祝情缘 双化蝶"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 187,
+        "title": "潮剧片段：刘明珠 请看弱女胜男儿"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 188,
+        "title": "潮剧片段：罗衫记 郑巧娘祭江"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 189,
+        "title": "潮剧片段：满腹酸楚有谁知 林初发"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 190,
+        "title": "潮剧片段：美人泪"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 191,
+        "title": "潮剧片段：穆桂英招亲 原效堂前双燕飞"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 192,
+        "title": "潮剧片段：三姐下凡"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 193,
+        "title": "潮剧片段：生离死别情难尽 林燕云 张怡凰"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 194,
+        "title": "潮剧片段：苏后复国 助我除奸扶圣朝"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 195,
+        "title": "潮剧片段：王熙凤—诓尤"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 196,
+        "title": "潮剧片段：血溅南梁宫—丹心一点留人间"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 197,
+        "title": "潮剧片段：血溅南梁宫—佛门常思爹和娘"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 198,
+        "title": "潮剧片段：血溅三宝袍—披肝沥胆直言奏"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 199,
+        "title": "潮剧片段：一腔怨气恨难平 林燕云 林武燕"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 200,
+        "title": "潮剧片段：义胆侠心(古装潮剧)根据金魁星改编-广东潮剧院二团"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 201,
+        "title": "潮剧片段：义女传选段：九泉含冤目难暝"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 202,
+        "title": "潮剧片段：玉川救帅—万千思绪涌心头"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 203,
+        "title": "潮剧片段：玉堂春 士为知己死亦甘"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 204,
+        "title": "潮剧片段：月容传奇 A段(外景潮剧)"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 205,
+        "title": "潮剧片段：月容传奇 C段(外景潮剧)"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 206,
+        "title": "潮剧片段：赵少卿 快把衷曲细言讲"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 207,
+        "title": "潮剧片段：赵少卿 为民除害正纪纲"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 208,
+        "title": "潮剧片段：状元配—伦文叙叩首陈情"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 209,
+        "title": "潮剧片段-嫦娥奔月-广东潮剧一团演出"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 210,
+        "title": "潮剧片段-大劈棺(根据越剧改编)"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 211,
+        "title": "潮剧片段-对海梳妆(红珊瑚选场)"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 212,
+        "title": "潮剧片段-京娘送兄-广东潮剧院一团演出"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 213,
+        "title": "潮剧片段-芦林会-广东潮剧院演出"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 214,
+        "title": "潮剧片段-释怨"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 215,
+        "title": "潮剧片段-芦林会"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 216,
+        "title": "潮剧片段-扫窗会"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 217,
+        "title": "潮剧片段-宋江杀惜(大型传统潮剧)"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 218,
+        "title": "潮剧片段-天女散花"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 219,
+        "title": "潮剧片段-铁弓缘（锦出戏）"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 220,
+        "title": "潮剧片段-偷诗"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 221,
+        "title": "潮剧片段-下山"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 222,
+        "title": "潮剧片段-徐策跑城-潮州市潮剧团表演"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 223,
+        "title": "潮剧片段-寻子"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 224,
+        "title": "潮剧片段-游园(选自传统剧目《孟丽君》)"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 225,
+        "title": "潮剧片段-芦林会"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 226,
+        "title": "潮剧片段-扫窗会"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 227,
+        "title": "潮剧片段-宋江杀惜(大型传统潮剧)"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 228,
+        "title": "潮剧片段-天女散花"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 229,
+        "title": "潮剧片段-铁弓缘（锦出戏）"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 230,
+        "title": "潮剧片段-偷诗"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 231,
+        "title": "潮剧片段-下山"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 232,
+        "title": "潮剧片段-徐策跑城-潮州市潮剧团表演"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 233,
+        "title": "潮剧片段-寻子"
+      },
+      {
+        "bvid": "BV1ub411273b",
+        "part": 234,
+        "title": "潮剧片段-游园(选自传统剧目《孟丽君》)"
+      }
+    ]
+  },
   "qinqiang": {
     "name": "秦腔精选",
     "categoryName": "秦腔",
     "items": [
-      {"bvid": "BV1reVJ6ZETf", "part": 1, "title": "《打焦赞》（雷格格）"},
-      {"bvid": "BV1reVJ6ZETf", "part": 2, "title": "《鬼怨·杀生》（李梅）"},
-      {"bvid": "BV1reVJ6ZETf", "part": 3, "title": "《对银杯》陕西省春蕾秦腔艺术团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 4, "title": "《下河东》周至剧团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 5, "title": "《化墨珠》西安秦腔剧院三意社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 6, "title": "《赵氏孤儿》全本 西安三意社演出王瑛"},
-      {"bvid": "BV1reVJ6ZETf", "part": 7, "title": "《春江月》西安秦腔剧院三意社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 8, "title": "《双锦衣》（下本西安秦腔剧院易俗社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 9, "title": "《海瑞驯“虎”》陕西省戏曲研究院秦腔团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 10, "title": "《五典坡》上本)西安秦腔剧院三意社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 11, "title": "《春江月》西安市五一剧团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 12, "title": "《游龟山》（蝴蝶杯前本西安易俗社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 13, "title": "《龙凤呈祥》陕西省戏曲研究院秦腔团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 14, "title": "《法门寺》陕西省戏曲研究院青年团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 15, "title": "《胭脂》西安易俗社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 16, "title": "《黑叮本》西安秦腔剧院三意社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 17, "title": "《铡美案》陕西省戏曲研究院秦腔团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 18, "title": "《闯宫抱斗》西安市五一剧团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 19, "title": "《铡美案》全本  陕西省戏曲研究院演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 20, "title": "《杨门女将》西安秦腔剧院三意社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 21, "title": "《下河东》陕西省戏曲研究院秦腔团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 22, "title": "《西京故事》陕西省戏曲研究院眉碗团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 23, "title": "《劈山救母》陕西省戏曲研究院青年团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 24, "title": "《卷席筒》陕西省戏曲研究院眉碗团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 25, "title": "《双锦衣》（上本西安秦腔剧院易俗社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 26, "title": "《周仁》"},
-      {"bvid": "BV1reVJ6ZETf", "part": 27, "title": "《周仁回府》陕西省戏曲研究院青年团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 28, "title": "《三滴血》西安易俗社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 29, "title": "《狸猫换太子》（上本陕西省戏曲研究院小梅花秦腔团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 30, "title": "《花烛恨》陕西省戏曲研究院眉碗团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 31, "title": "《周仁回府》陕西省戏曲研究院眉碗团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 32, "title": "《屠夫状元》陕西省戏曲研究院眉碗团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 33, "title": "《斩黄袍》陕西省戏曲研究院秦腔团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 34, "title": "《王宝钏》陕西省戏曲研究院青年团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 35, "title": "《火焰驹》西安秦腔剧院三意社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 36, "title": "《盗虎符》西安易俗社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 37, "title": "《玉堂春》西安秦腔剧院三意社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 38, "title": "《棒打无情郎》西安市青年秦腔艺术团（三意社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 39, "title": "《福寿镜》陕西省戏曲研究院小梅花秦腔团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 40, "title": "《屠夫状元》陕西省戏曲研究院眉碗团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 41, "title": "《清风亭》西安市五一剧团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 42, "title": "《李十三》陕西省戏曲研究院眉碗团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 43, "title": "《双官诰》陕西省戏曲研究院秦腔团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 44, "title": "《满江红》陕西省戏曲研究院眉碗团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 45, "title": "《祝福》"},
-      {"bvid": "BV1reVJ6ZETf", "part": 46, "title": "《玉虎坠》陕西省戏曲研究院眉碗团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 47, "title": "《锁麟囊》陕西省戏曲研究院青年团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 48, "title": "《迟开的玫瑰》"},
-      {"bvid": "BV1reVJ6ZETf", "part": 49, "title": "《青天女巡按》富平县阿宫剧团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 50, "title": "《清风亭》陕西省戏曲研究院青年团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 51, "title": "《柳河湾的新娘》西安秦腔剧院易俗社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 52, "title": "《留下真情》陕西省戏曲研究院创作演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 53, "title": "《孙安动本》陕西省戏曲研究院秦腔团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 54, "title": "《珍珠塔》陕西省戏曲研究院小梅花秦腔团演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 55, "title": "《花打朝》西安秦腔剧院三意社演出"},
-      {"bvid": "BV1reVJ6ZETf", "part": 56, "title": "《三滴血》西安电影制片厂摄制"},
-      {"bvid": "BV1reVJ6ZETf", "part": 57, "title": "《宇宙锋》陕西省戏曲研究院秦腔团演出"}
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 1,
+        "title": "【精品】秦腔《窦娥冤》全本 马友仙传世经典作品-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 2,
+        "title": "【精品】秦腔全本《卖妙郎》银川市秦腔剧团演出-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 3,
+        "title": "【精品】秦腔全本《双官诰》又名《三娘教子》咸阳张虹主演 西安秦腔剧院演出-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 4,
+        "title": "【精品】秦腔全本《下河东》李发牢 康建海 梁安建 王军明 陕西省戏曲研究院演出-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 5,
+        "title": "【精品】秦腔全本《游龟山》李淑芳主演-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 6,
+        "title": "【精品】秦腔全本《忠保国》又名《黑叮本》王建力 米蓉 西安秦腔剧院-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 7,
+        "title": "【精品】秦腔全本《周仁回府》李爱琴 李小锋 卫赞成-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 8,
+        "title": "【陕西版】秦腔传统名剧《狸猫换太子》全本 西安秦腔剧院三意社2012年演出-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 9,
+        "title": "秦腔《龙凤呈祥》又名《回荆州》全本 崔火炎 段桂珍 陕西省戏曲研究院秦腔团-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 10,
+        "title": "秦腔传统经典名剧《三娘教子》(又名双官诰)全本 陕西省春蕾秦腔艺术团-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 11,
+        "title": "秦腔传统剧《火焰驹》全本 侯红琴 张涛 齐爱云 康亚婵 马璐璐-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 12,
+        "title": "秦腔传统剧《王宝钏》全本 李娟 李小青 陕西省戏曲研究院-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 13,
+        "title": "秦腔传统名剧《双官诰》(三娘教子) 全本 刘红梅主演 陕西省戏曲研究院新排演出-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 14,
+        "title": "秦腔电视艺术片《周仁》全本 李爱琴 李买刚 丁良生 侯红琴 西安五一剧团-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 15,
+        "title": "秦腔历史名剧《黑叮本》全本 咸阳市人民剧团演出-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 16,
+        "title": "秦腔木偶剧《崇祯王上煤山》全本 主唱杨红梅（高清宽屏）-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 17,
+        "title": "秦腔木偶戏《牧羊圈》全本（又名《朱春登放饭》）主唱杨红梅-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 18,
+        "title": "秦腔全本《棒打无情郎》全名《金玉奴棒打无情郎》薛广民 马璐璐 李红-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 19,
+        "title": "秦腔全本《慈母泪》又名《八珍汤》武红霞 陕西省戏曲研究院演出-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 20,
+        "title": "秦腔全本《窦娥冤》高亚玲 胡林焕 梁安建 宝鸡市戏曲剧院-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 21,
+        "title": "秦腔全本《窦娥冤》任小蕾 陕西省戏曲研究院-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 22,
+        "title": "秦腔全本《对银杯》陕西省春蕾秦腔艺术团-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 23,
+        "title": "秦腔全本《夺锦楼》李淑芳王荣华主演 西安秦腔剧院演出-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 24,
+        "title": "秦腔全本《恩仇记》王新仓 张丽霞 郭军 谭天杏 陕西省戏曲研究院-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 25,
+        "title": "秦腔全本《法门寺》又名《宋巧姣告状》 师大庆 王瑛 马璐璐 李红 西安三意社演出-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 26,
+        "title": "秦腔全本《法门寺》又名《宋巧姣告状》冯艳丽 马丽 陕西省戏曲研究院青年团-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 27,
+        "title": "秦腔全本《法门寺》又名《宋巧姣告状》刘随社 陕西省戏曲研究院-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 28,
+        "title": "秦腔全本《福寿镜》陕西省戏曲研究院-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 29,
+        "title": "秦腔全本《寒窑记》李梅 侯红琴 惠敏莉 张涛-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 30,
+        "title": "秦腔全本《红鬃烈马》李梅 杨荣荣 马友仙 肖玉玲 郭明霞 余巧云 王玉琴（1993）-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 31,
+        "title": "秦腔全本《花打朝》西安三意社2016新排演出-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 32,
+        "title": "秦腔全本《花烛恨》雷开元 杨荣荣-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 33,
+        "title": "秦腔全本《火焰驹》陈妙华 肖玉玲 孟遏云 肖若兰（1958电影）-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 34,
+        "title": "秦腔全本《假婿乘龙》名丑王升堂主演 陕西唐梨园影视剧院演出-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 35,
+        "title": "秦腔全本《金麒麟》西安市秦腔一团(老视频)-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 36,
+        "title": "秦腔全本《金沙滩》梁安建 西安秦腔剧院演出-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 37,
+        "title": "秦腔全本《九江口》刘志政 西安秦腔剧院-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 38,
+        "title": "秦腔全本《柳河湾的新娘》惠敏莉 陈超武 西安易俗社-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 39,
+        "title": "秦腔全本《六部大审》又名《九莲灯》-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 40,
+        "title": "秦腔全本《龙凤呈祥》又名《回荆州》陈仁义 王玉琴 贠宗翰 雷开元 马友仙 郝彩凤 卫赞成 李东桥-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 41,
+        "title": "秦腔全本《麦积圣歌》窦凤琴 边宵 袁丫丫-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 42,
+        "title": "秦腔全本《牛郎织女》又名《七月七》甘肃西和县秦剧团-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 43,
+        "title": "秦腔全本《麒麟山》凤翔县人民剧团-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 44,
+        "title": "秦腔全本《墙头记》谭敏 陕西省戏曲研究院小梅花团演出-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 45,
+        "title": "秦腔全本《秦香莲》魏燕妮 李江伟主演 陕西省戏曲研究院演出-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 46,
+        "title": "秦腔全本《情断状元楼》(王魁负义)于苗 陕西省戏曲研究院小梅花团-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 47,
+        "title": "秦腔全本《三滴血》杨天易 张咏华 戴春荣 张保玮 丁小玲 王科学等-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 48,
+        "title": "秦腔全本《三子争父》又名《福寿图》范晓荣 陕西省春蕾秦腔艺术团-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 49,
+        "title": "秦腔全本《宋巧娇告状》-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 50,
+        "title": "秦腔全本《苏若兰》李梅 边肖主演-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 51,
+        "title": "秦腔全本《苏武牧羊》凤翔县人民剧团-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 52,
+        "title": "秦腔全本《锁麟囊》李君梅主演-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 53,
+        "title": "秦腔全本《锁麟囊》苏凤丽主演-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 54,
+        "title": "秦腔全本《王宝钏》柳萍 雷通霞 齐爱云 侯红琴 李娟 窦凤琴 李梅-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 55,
+        "title": "秦腔全本《王宝钏》杨凤兰（秦腔正宗敏派继承人）-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 56,
+        "title": "秦腔全本《西京故事》李东桥 卫小莉 陕西省戏曲研究院 高清宽屏-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 57,
+        "title": "秦腔全本《下河东》李锋主演 西安秦腔剧院演出-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 58,
+        "title": "秦腔全本《孝廉弑母》高江伟主演 泾阳县剧团演出-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 59,
+        "title": "秦腔全本《杨门女将》王玉琴 西安市秦腔一团(老视频)-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 60,
+        "title": "秦腔全本《杨门女将》魏艳妮 孙艳 陕西省戏曲研究院小梅花团演出-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 61,
+        "title": "秦腔全本《杨七娘》李娟主演-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 62,
+        "title": "秦腔全本《玉堂春》(又名苏三起解)肖玉玲 苏凤丽 侯红琴-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 63,
+        "title": "秦腔全本《辕门斩子》上下合集 刘随社主演-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 64,
+        "title": "秦腔全本《辕门斩子》赵扬武 陕西省戏曲研究院-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 65,
+        "title": "秦腔全本《铡美案》李志翔 武红霞 赵阳武 雷涛 陕西省戏曲研究院-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 66,
+        "title": "秦腔全本《斩李广》高广言 周至县剧团-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 67,
+        "title": "秦腔全本《赵五娘》冯艳丽 陕西省戏曲研究院-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 68,
+        "title": "秦腔全本《忠保国》又名《黑叮本》康亚婵 李小伟 肖文敏 西安三意社-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 69,
+        "title": "秦腔全本《周仁回府》李小锋 陕西省戏曲研究院 (农林卫视播出)-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 70,
+        "title": "秦腔全本《周仁回府》李小锋主演-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 71,
+        "title": "秦腔全本《状元媒》又名《铜台破辽》马友仙 丁良生 刘茹慧 张保玮-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 72,
+        "title": "秦腔全本戏《金沙滩》刘志政主演-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 73,
+        "title": "秦腔全本戏《清风亭》又名《雷殛张继保》黄小莉 陈魁 陕西省戏曲研究院-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 74,
+        "title": "秦腔全本戏《清风亭》又名《雷殛张继保》同超 张虹 西安秦腔剧院-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 75,
+        "title": "秦腔全本戏《下河东》周剑 礼泉县剧团-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 76,
+        "title": "秦腔全本戏《哑女告状》宝鸡市新声剧团-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 77,
+        "title": "新排大型秦腔《双锦衣》前本 惠敏莉 王宏义 韩利霞 朱海娥 西安易俗社-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 78,
+        "title": "新排大型秦腔《双锦衣》后本 惠敏莉 王宏义 韩利霞 朱海娥 西安易俗社-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 79,
+        "title": "新排大型秦腔《铡美案》全本 李江伟 魏燕妮 崔江 唐喜良 陕西省戏曲研究院-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 80,
+        "title": "新排秦腔全本《铡美案》马永红 左育强 甘肃秦腔艺术剧院-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 81,
+        "title": "新排秦腔全本《珍珠塔》王航 魏艳妮 陕西省戏曲研究院-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 82,
+        "title": "新排秦腔全本戏《宇宙锋》齐爱云主演 陕西省戏曲研究院演出-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 83,
+        "title": "眉户电影《屠夫状元》全本-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 84,
+        "title": "秦腔《铡美案》全本 四个包公（李买刚和弟子） 两个秦香莲（王荣华 米荣） 西安秦腔剧院 2012版-_标清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 85,
+        "title": "秦腔传统剧《周仁回府》全本 杨升娟 西安秦腔剧院-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 86,
+        "title": "秦腔全本《乾坤带》(斩秦英)王雪琴 宋少锋 付广宇 李春 王晓曼-_超清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 87,
+        "title": "秦腔全本《四进士》渭南市秦腔团-_高清"
+      },
+      {
+        "bvid": "BV1m4411X7DK",
+        "part": 88,
+        "title": "秦腔全本《杨门女将》 齐爱云 侯红琴 梁玉-_超清"
+      }
+    ]
+  },
+  "yueju": {
+    "name": "粤剧精选",
+    "categoryName": "粤剧",
+    "items": [
+      {
+        "bvid": "BV1mf4y1h7n8",
+        "part": 1,
+        "title": "粤剧《白蛇传·情》舞台版"
+      }
+    ]
+  },
+  "wuju": {
+    "name": "婺剧精选",
+    "categoryName": "婺剧",
+    "items": [
+      {
+        "bvid": "BV1vM4y1f7cC",
+        "part": 1,
+        "title": "婺剧经典剧目《雪里梅》，一人饰两角 自己背着自己表演，一颦一笑，一举一动，那都是真功夫！"
+      }
+    ]
+  },
+  "shaoju": {
+    "name": "绍剧精选",
+    "categoryName": "绍剧",
+    "items": [
+      {
+        "bvid": "BV1vx411D774",
+        "part": 1,
+        "title": "P1"
+      }
+    ]
+  },
+  "huaguxi": {
+    "name": "花鼓戏精选",
+    "categoryName": "花鼓戏",
+    "items": [
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 1,
+        "title": "01- 王七过年"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 2,
+        "title": "002- 过江老汉驮妻"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 3,
+        "title": "003- 韩湘子化斋"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 4,
+        "title": "004- 陶澍算命"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 5,
+        "title": "005 胡大回门"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 6,
+        "title": "006 满姑娘上吊"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 7,
+        "title": "007 丁三赖招亲"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 8,
+        "title": "008 三喜临门"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 9,
+        "title": "009 三阳做媒"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 10,
+        "title": "010 打芦花1"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 11,
+        "title": "011 打芦花2"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 12,
+        "title": "012 打铜锣"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 13,
+        "title": "013 化子嫁妻"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 14,
+        "title": "014 大进宫"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 15,
+        "title": "015 富贵满堂1"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 16,
+        "title": "016 富贵满堂2"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 17,
+        "title": "017 观花游楼"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 18,
+        "title": "018 洪兰桂打酒"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 19,
+        "title": "019 桃花装疯1"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 20,
+        "title": "020 桃花装疯2"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 21,
+        "title": "021 私访华容1"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 22,
+        "title": "022 私访华容2"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 23,
+        "title": "023 三子争父"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 24,
+        "title": "024-《喜脉案》全剧  1985  湖南花鼓戏剧院青年剧团演出"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 25,
+        "title": "025-湖南花鼓戏《韩相子之林英观花》"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 26,
+        "title": "026-湖南花鼓戏《韩相子之茅庵渡妻》"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 27,
+        "title": "027-湖南花鼓戏《韩湘子》之《韩湘子卖杂货》"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 28,
+        "title": "028-湖南花鼓戏《韩湘子》之《茅庵渡妻》"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 29,
+        "title": "029-湖南花鼓戏《韩湘子》之《湘子与林英》"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 30,
+        "title": "030-湖南花鼓戏《韩湘子》之《湘子与林英》全剧"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 31,
+        "title": "31-花鼓戏视频-化子嫁妻"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 32,
+        "title": "32-花鼓戏视频-兰桥会-"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 33,
+        "title": "33-花鼓戏视频-懒煮饭"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 34,
+        "title": "34-花鼓戏视频-两百五外传"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 35,
+        "title": "35-花鼓戏视频-两亲家"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 36,
+        "title": "36-花鼓戏视频-刘海砍樵"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 37,
+        "title": "37-花鼓戏视频-孟姜女哭长城-送寒衣"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 38,
+        "title": "38-花鼓戏视频-母女讨饭-1-周春桃-"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 39,
+        "title": "39-花鼓戏视频-秦雪梅吊孝-"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 40,
+        "title": "40-花鼓戏视频-五更劝夫-"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 41,
+        "title": "41-花鼓戏视频-孝子劝媳"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 42,
+        "title": "042-湖南花鼓戏-孟姜女送夫"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 43,
+        "title": "043-张先生讨学钱"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 44,
+        "title": "补锅 湖南花鼓戏-李谷一  1965"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 45,
+        "title": "1 湖南花鼓戏《王婆骂鸡》"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 46,
+        "title": "生死牌-孙岳云、刘艳平、刘作梅1上"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 47,
+        "title": "生死牌-孙岳云、刘艳平、刘作梅2 中"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 48,
+        "title": "生死牌-孙岳云、刘艳平、刘作梅3 下"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 49,
+        "title": "658-花鼓戏视频-送货路上"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 50,
+        "title": "01 《扯萝卜菜》赵元贞 解梅精_batch"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 51,
+        "title": "02 《丑人记》朱天云 淩国康 肖重珪 张建军_batch"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 52,
+        "title": "03 《打鸟》张建军 唐钟璧 钏宜淳_batch"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 53,
+        "title": "04 《小姑贤》钟宜淳 肖重珪 龚谷音 朱海云_batch"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 54,
+        "title": "05 《胡大回门》陈正春 刘艳平 谢哲_batch"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 55,
+        "title": "06 《陶澍算命》 高天佑 欧阳锦花 黄铁蛟 刘华平_batch"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 56,
+        "title": "07 《骂鸭》李玲辉 代飞_batch"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 57,
+        "title": "12 《商林升天》 王明杰 卜小红 曹正军_batch"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 58,
+        "title": "14 《孙成打酒》上集_batch"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 59,
+        "title": "15 《孙成打酒》中集_batch"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 60,
+        "title": "16 《孙成打酒》下集_batch"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 61,
+        "title": "10 《贫富上寿》王定华 潘冬秀 卜小红_bilibili"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 62,
+        "title": "湖南花鼓戏-张先生讨学钱(电影版)-张天相"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 63,
+        "title": "衡阳花鼓戏－张子映（十古怪系列）"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 64,
+        "title": "1 湖南花鼓戏《观音送子》上"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 65,
+        "title": "2 湖南花鼓戏《观音送子》中"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 66,
+        "title": "3 湖南花鼓戏《观音送子》下"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 67,
+        "title": "0湖南地花鼓3 闹五更"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 68,
+        "title": "01 湖南地花鼓采茶"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 69,
+        "title": "02湖南地花鼓 拖板凳"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 70,
+        "title": "04湖南地花鼓 十绣"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 71,
+        "title": "05湖南地花鼓 十送"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 72,
+        "title": "06湖南地花鼓 送财"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 73,
+        "title": "07湖南地花鼓 送恭喜"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 74,
+        "title": "08湖南地花鼓 送子"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 75,
+        "title": "09 湖南地花鼓望郎"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 76,
+        "title": "10 湖南地花鼓望郎2"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 77,
+        "title": "11湖南地花鼓 五瞧妹"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 78,
+        "title": "12 湖南地花鼓新拜年"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 79,
+        "title": "湖南花鼓戏西湖调_选段"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 80,
+        "title": "益阳本地搞笑小品2-2"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 81,
+        "title": "益阳本地搞笑小品1-2"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 82,
+        "title": "花鼓戏嬉闹三堂-(划家龙船)"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 83,
+        "title": "赞土地的(酒店版)#弘扬戏曲文化_#戏曲"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 84,
+        "title": "喜闹三堂-徐瞎子算八字-无二维码版"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 85,
+        "title": "花鼓戏《蔡坤山耕田》完整版"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 86,
+        "title": "喜闹三堂-打土地（全屏）"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 87,
+        "title": "【湖南花鼓戏】折子戏集 ：《懒煮饭》 浏阳市花鼓戏剧团演出"
+      },
+      {
+        "bvid": "BV1vh411p7cw",
+        "part": 88,
+        "title": "湖南相声爆笑花鼓戏《懒煮饭》曹曙光 熊壮 叶红。"
+      }
+    ]
+  },
+  "yuju": {
+    "name": "豫剧精选",
+    "categoryName": "豫剧",
+    "items": [
+      {
+        "bvid": "BV13L411t7MQ",
+        "part": 1,
+        "title": "【豫剧】《秦香莲》（《铡美案》《包青天》）全本-张钰东  董芙蓉  完整全字幕版"
+      }
+    ]
+  },
+  "hebeibangzi": {
+    "name": "河北梆子精选",
+    "categoryName": "河北梆子",
+    "items": [
+      {
+        "bvid": "BV18M41177FK",
+        "part": 1,
+        "title": "【河北梆子】《美狄亚》王洪玲 魏爽 王英会 董志伟 金民合等"
+      }
+    ]
+  },
+  "kunqu": {
+    "name": "昆曲精选",
+    "categoryName": "昆曲",
+    "items": [
+      {
+        "bvid": "BV1oy4y1z7Ug",
+        "part": 1,
+        "title": "昆曲《南柯梦》上本[1080P]"
+      },
+      {
+        "bvid": "BV1oy4y1z7Ug",
+        "part": 2,
+        "title": "昆曲《南柯梦》下本[1080P]"
+      }
+    ]
+  },
+  "jinju": {
+    "name": "晋剧精选",
+    "categoryName": "晋剧",
+    "items": [
+      {
+        "bvid": "BV1LM411i7kt",
+        "part": 1,
+        "title": "（1）王宝钏离寒窑"
+      },
+      {
+        "bvid": "BV1LM411i7kt",
+        "part": 2,
+        "title": "（2）二爹娘切莫要吵吵嚷嚷"
+      },
+      {
+        "bvid": "BV1LM411i7kt",
+        "part": 3,
+        "title": "（3）二堂转来王丞相"
+      },
+      {
+        "bvid": "BV1LM411i7kt",
+        "part": 4,
+        "title": "（4）老王晏驾大家有序排队造反"
+      },
+      {
+        "bvid": "BV1LM411i7kt",
+        "part": 5,
+        "title": "（5）观众喜闻乐见大登殿"
+      },
+      {
+        "bvid": "BV1LM411i7kt",
+        "part": 6,
+        "title": "（6）说什么正来论的什么偏，你我结发比他先(=^▽^=)"
+      }
+    ]
+  },
+  "lvju": {
+    "name": "吕剧精选",
+    "categoryName": "吕剧",
+    "items": [
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 1,
+        "title": "小姑（子）贤 郭爱琴、祝德英、焦黎、谭连华山东省吕剧院1995年7月演出摄制"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 2,
+        "title": "小姑不贤 ~美、赵玉秋、朱弦运、王淑~、李宏伟等"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 3,
+        "title": "李二嫂改嫁音配像 郎咸芬/高静、祝德英/马晓琳、杨瑞卿/谭连华、林建~/郭爱琴等"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 4,
+        "title": "李二嫂改嫁后传/之后/续集 郎咸芬、祝德英等"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 5,
+        "title": "姊妹易嫁 董家岭、高静、段作章、李.·萍山东省吕剧院演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 6,
+        "title": "姊妹易嫁之后/后传2010.5烟台市吕剧院创作演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 7,
+        "title": "龙凤面/梁赛金擀面 马晓琳、高静、文宗哲、董家岭、段作章、谭连华等山东省吕剧院复排演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 8,
+        "title": "墙头记 马林、常兆玉、李岱江、刘风雪、李红、杨瑞卿山东省吕剧院演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 9,
+        "title": "王汉喜借年音配像全场 李岱江/宋娜娜、刘艳芳/徐慧娟、朱德英/沈红萍"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 10,
+        "title": "借年之后音配像全场 李岱江/李肖江、林建～/郭爱琴等"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 11,
+        "title": "王金贵吊孝 东营市广饶县吕源吕剧团"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 12,
+        "title": "三娘教子 郭爱琴、文宗哲、谭连华、马小琳等"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 13,
+        "title": "逼婚记 张万真、张艳芳等济南市吕剧团演员演出摄制"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 14,
+        "title": "奇婚记 潍坊市吕剧团"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 15,
+        "title": "借亲音配像 ～美/鲍少～、安绪金/李岱江、王淑～/高静、王鸽/文宗哲等"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 16,
+        "title": "闹房 吕焕岭、姜少华、单英济南市吕剧团演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 17,
+        "title": "喝面叶 朱~友、李燕山东省吕剧院演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 18,
+        "title": "王定宝借当 董家岭、吴.·萍、王～～等山东省吕剧院/团演员早年演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 19,
+        "title": "双玉蝉音配像全剧"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 20,
+        "title": "钗头凤 李岱江、吴.·萍、林建～等依久叭参.·年山东省吕剧团演出录制"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 21,
+        "title": "恩怨情 綦C芳、王.·波等山东省莱州市吕剧团演员早年演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 22,
+        "title": "桃李梅 董.·艳.·萍、张.·艳.·芳等济南市吕剧团演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 23,
+        "title": "梨花～ 郎咸芬、李岱江、于.·庆.·昌、吴.·萍依久巴似.·年山东省吕剧团主演"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 24,
+        "title": "王小赶脚 房.·玉.·梅、李.·军"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 25,
+        "title": "井台会音配像全场 林建～/李.·萍、李岱江/李肖江"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 26,
+        "title": "拾玉镯音配像全场 钱玉玲/王爱青、沈涛/冯春辉、王俊黄/刘桂荣 山东邹平吕剧团演员配像演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 27,
+        "title": "搬窑全场 杨春梅、王仁仲、周正伟烟台吕剧团依久久久.·年5月"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 28,
+        "title": "泪洒相思地 杨春梅等烟台市吕剧团演员主演"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 29,
+        "title": "娶婆婆 常兆玉、祝德英、吴.·萍、李岱江山东省吕剧团演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 30,
+        "title": "半夜夫妻 山东邹平吕剧团依久久久.·年演出录制"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 31,
+        "title": "打金枝 郭爱琴、李肖江、付焕涛等"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 32,
+        "title": "狸猫换太子 王鸽、王淑～、吕焕岭、郭清清等济南市吕剧团/院演员演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 33,
+        "title": "哑女告状 东营市吕剧团"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 34,
+        "title": "画龙点睛 于.·庆·.昌·、董家岭、李肖江等 山东省吕剧团/院87年演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 35,
+        "title": "丁僧扫雪 广饶县梨园吕剧团"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 36,
+        "title": "卷席筒 山东省邹平县吕剧团音配像演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 37,
+        "title": "父母～/逼婚记外传 孙芙杰、赵玉秋、张美娟、王淑～、吕焕岭、朱泓运等济南市吕剧团/院演员演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 38,
+        "title": "苦菜花 郎咸芬、吕淑娥、文宗哲、谭连华、付焕涛、李.·萍、高静、董家岭等山东省吕剧院演员早年演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 39,
+        "title": "三拉房 李.·萍、李肖江早年演出全场"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 40,
+        "title": "婴C 邓淑丽、米有余、李.·军 依久吧午.·年吕剧青年演员大赛一等奖作品"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 41,
+        "title": "哈吕 团圆泪"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 42,
+        "title": "海～的女儿 李玲君、高慧、景德麟等依久吧三.·年峨眉电影制品厂主演全剧"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 43,
+        "title": "郑盈盈 烟台地区吕剧团早年演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 44,
+        "title": "挂画 山东省潍坊市吕剧团"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 45,
+        "title": "玩会跳船 董家岭、王~~、焦黎"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 46,
+        "title": "潘金莲 杨春梅等烟台吕剧团/院演员演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 47,
+        "title": "寻子记1 吕学芹等山东省潍坊市吕剧团/院演员演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 48,
+        "title": "寻子记2 吕学芹等山东省潍坊市吕剧团/院演员演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 49,
+        "title": "红丝错 王鸽、孟莹、郭清清等济南市吕剧院演员演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 50,
+        "title": "石龙湾 高静、李肖江、付焕涛、郭爱琴、鲍少～等山东省吕剧院演员演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 51,
+        "title": "庵堂认母 李肖江、李萍"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 52,
+        "title": "糊涂～井远秀、李宏伟、朱泓运等"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 53,
+        "title": "飞犬奇案 崂山县吕剧团演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 54,
+        "title": "山高水长 郎咸芬、吴.·萍、马.·林"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 55,
+        "title": "孟姜女 第二届山东艺术节烟台片戏剧调演获奖剧目"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 56,
+        "title": "拉郎配 滨州市吕剧团纪念老舍诞辰一百周年早年演出"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 57,
+        "title": "状元与乞丐 滨州市吕剧团"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 58,
+        "title": "风流才子 董家岭、文宗哲、付焕涛、郭爱琴、李肖江等山东省吕剧院早年演出主演"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 59,
+        "title": "梁山伯与祝英台 龙口市吕剧院2009.2.3(正月初九 )"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 60,
+        "title": "借靴 山东邹平吕剧团早年演出全场"
+      },
+      {
+        "bvid": "BV1ZY4y1L7Qy",
+        "part": 61,
+        "title": "巧配鸳鸯 山东省邹平县吕剧团演员舞台演出"
+      }
+    ]
+  },
+  "huju": {
+    "name": "沪剧精选",
+    "categoryName": "沪剧",
+    "items": [
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 1,
+        "title": "《芦荡火种》上集 丁是娥 徐伯涛 石筱英 俞麟童 邵滨荪"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 2,
+        "title": "《芦荡火种》中集 丁是娥 徐伯涛 石筱英 俞麟童 邵滨荪"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 3,
+        "title": "《芦荡火种》下集 丁是娥 徐伯涛 石筱英 俞麟童 邵滨荪"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 4,
+        "title": "《借黄糠》上集 汪华忠 王明道"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 5,
+        "title": "《借黄糠》下集 汪华忠 王明道"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 6,
+        "title": "《阿必大》 石筱英 许国华 沈仁伟 吴素秋"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 7,
+        "title": "《打花包》 舒悦 程臻 吴争光"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 8,
+        "title": "《女看灯》王惠钧 苏维娜"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 9,
+        "title": "《庵堂相会搀桥》  吕贤丽"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 10,
+        "title": "《陆雅臣》片断 王盘声"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 11,
+        "title": "《卖红菱》 杨飞飞"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 12,
+        "title": "《大庵堂》 杨飞飞 王盘声 小莜月珍"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 13,
+        "title": "《碧落黄泉》上集 王盘声"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 14,
+        "title": "《碧落黄泉》中集 王盘声"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 15,
+        "title": "《碧落黄泉》下集 王盘声"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 16,
+        "title": "《母子岭》上集 沈惠中 陈瑜 徐伯涛 沈仁伟 吴素秋"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 17,
+        "title": "《母子岭》中集 沈惠中 陈瑜 徐伯涛 沈仁伟 吴素秋"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 18,
+        "title": "《母子岭》下集 沈惠中 陈瑜 徐伯涛 沈仁伟 吴素秋"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 19,
+        "title": "《笑傲人生》上集 邵滨孙"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 20,
+        "title": "《笑傲人生》中集 邵滨孙"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 21,
+        "title": "《笑傲人生》下集 邵滨孙"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 22,
+        "title": "《沪剧折子戏选》01"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 23,
+        "title": "沪剧折子戏选》02"
+      },
+      {
+        "bvid": "BV1R7411R7uh",
+        "part": 24,
+        "title": "沪剧折子戏选》03"
+      }
+    ]
+  },
+  "huangmeixi": {
+    "name": "黄梅戏精选",
+    "categoryName": "黄梅戏",
+    "items": [
+      {
+        "bvid": "BV173411k7bJ",
+        "part": 1,
+        "title": "马兰《龙女》字幕版"
+      }
+    ]
+  },
+  "yuediao": {
+    "name": "越调精选",
+    "categoryName": "越调",
+    "items": [
+      {
+        "bvid": "BV1TW411g7wg",
+        "part": 1,
+        "title": ""
+      }
+    ]
+  },
+  "yueju2": {
+    "name": "越剧精选",
+    "categoryName": "越剧",
+    "items": [
+      {
+        "bvid": "BV1Py4y1j71B",
+        "part": 1,
+        "title": "第一场 虐女"
+      },
+      {
+        "bvid": "BV1Py4y1j71B",
+        "part": 2,
+        "title": "第二场 牧羊"
+      },
+      {
+        "bvid": "BV1Py4y1j71B",
+        "part": 3,
+        "title": "第三场 叩树"
+      },
+      {
+        "bvid": "BV1Py4y1j71B",
+        "part": 4,
+        "title": "第四场 传书"
+      },
+      {
+        "bvid": "BV1Py4y1j71B",
+        "part": 5,
+        "title": "第五场 除孽"
+      },
+      {
+        "bvid": "BV1Py4y1j71B",
+        "part": 6,
+        "title": "第六场 拒婚"
+      },
+      {
+        "bvid": "BV1Py4y1j71B",
+        "part": 7,
+        "title": "第七场 惜别"
+      },
+      {
+        "bvid": "BV1Py4y1j71B",
+        "part": 8,
+        "title": "第八场 见母"
+      },
+      {
+        "bvid": "BV1Py4y1j71B",
+        "part": 9,
+        "title": "第九场 洞房"
+      }
+    ]
+  },
+  "pingju": {
+    "name": "评剧精选",
+    "categoryName": "评剧",
+    "items": [
+      {
+        "bvid": "BV1xL411w7iL",
+        "part": 1,
+        "title": "评剧音配像《乾坤带》（全本）新凤霞主演"
+      }
+    ]
+  },
+  "puju": {
+    "name": "蒲剧精选",
+    "categoryName": "蒲剧",
+    "items": [
+      {
+        "bvid": "BV1R64y1T75U",
+        "part": 1,
+        "title": "清风亭"
+      }
+    ]
+  },
+  "chuanju": {
+    "name": "川剧精选",
+    "categoryName": "川剧",
+    "items": [
+      {
+        "bvid": "BV1Mu411S7iU",
+        "part": 1,
+        "title": "最新高清彩色修复电影院版《乔太守乱点鸳鸯谱》1080"
+      }
     ]
   }
 }
